@@ -4,7 +4,8 @@ theta-delta-chi
 Website for Theta Delta Chi - Nu Triton Charge
 
 General:
--blue, black, white color schee
+
+-blue, black, white color scheme
 
 Includes functionality:
 
